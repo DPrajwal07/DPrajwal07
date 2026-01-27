@@ -4,7 +4,7 @@
 <h3 align="center">  Passionate About Building Innovative and Reliable Software Solutions</h3>
 
 - 🔭 I’m currently working on **Full Stack Development** 
-- 🌱 I’m currently learning **App Devlopement**
+- 🌱 I’m currently learning **Agentic AI**
 - 👯 I’m looking to collaborate on **App Devlopment** 
 - 🙇‍♂️ I'm a **Open Source Entusiast**
 
