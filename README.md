@@ -3,7 +3,7 @@
 
 <h3 align="center">  Passionate About Building Innovative and Reliable Software Solutions</h3>
 
-- 🔭 I’m currently working on **Full Stack Development** 
+- 🔭 I’m currently working on **Forward Deployment Engineering** 
 - 🌱 I’m currently learning **System Design and Agentic AI**
 - 👯 I’m looking to collaborate on **App Devlopment and Web Devlopment** 
 - 🙇‍♂️ I'm a **Open Source Entusiast**
